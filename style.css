@@ -33,7 +33,7 @@ h1{
 /*Section styling utilizes viewport to assign display sizing*/
 section{
 	height: 100vh;
-	width: 100%;
+	width: 100vw;
 
 }
 
